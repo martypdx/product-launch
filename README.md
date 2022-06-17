@@ -76,7 +76,7 @@ Come up with a concept and find assets:
 - Sketch out general design
 - Decide on how (or whether) it will be responsive
 
-Draw a sketch - by hand or electronically. Check out [Miro](miro.com). Plan where each major component will go. Create this for each "responsive design", meaning the device width ("viewport"), think mobile vs laptop.
+Draw a sketch - by hand or electronically. Check out [Miro](https://miro.com). Plan where each major component will go. Create this for each "responsive design", meaning the device width ("viewport"), think mobile vs laptop.
 
 ### Semantic HTML
 
